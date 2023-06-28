@@ -30,16 +30,15 @@ The second floor is our workshop with high ceilings that actually spans both the
 
 ## 4th Floor
 
-1. 3x dorm Bedrooms (4x4 = 12 people)
+1. 3x dorm Bedrooms (3x4 = 12 people)
 1. 1x single Bedroom (1 person)
 1. Telecommunications & Server Room
-1. Battery & Transformer Electrical Room
 1. Locker & Safe Rooms
 1. Small Urine WC
 
 ## 5th Floor
 
-1. 3x dorm Bedrooms (4x4 = 12 people)
+1. 3x dorm Bedrooms (3x4 = 12 people)
 1. 1x single Bedroom (1 person)
 1. Large Urine WC
 1. Indoor Coworking Space
@@ -49,6 +48,7 @@ The second floor is our workshop with high ceilings that actually spans both the
 ## 6th Floor
 
 1. Open-Air Terrace & Coworking Space
+1. Battery & Transformer Electrical Room
 1. Large Thermal Salt Tank
 1. Ground-Water Tank
 1. Rain-Water Tank
