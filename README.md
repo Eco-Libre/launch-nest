@@ -67,7 +67,7 @@ The second floor is our workshop with high ceilings that actually spans both the
 
 # License
 
-Copyright (C) 2020-2022 Michael Altfield and the BusKill Team
+Copyright (C) 2020-2022 Michael Altfield and the Eco-Libre Team
 
 The contents of this repo are under the GPL version 3 or later.
 In addition, any content other than code can also be used, at your
