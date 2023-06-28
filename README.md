@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-# launch-nest
-Designs for a Mixed-Use, Multi-Story, Highly-Sustainable Community House for 30 people
-=======
 # Eco-Libre Launch Nest
 
 This repo contains designs for a 6-story building that's designed to house 30 people in a small, off-grid community.
@@ -68,4 +64,3 @@ The second floor is our workshop with high ceilings that actually spans both the
 1. Sloped, Steel-reinforced concrete grid
 1. Sunroof grid
 1. Large overhang of transparent polycarbonate panels
->>>>>>> master
