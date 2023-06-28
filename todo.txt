@@ -1,0 +1,19 @@
+TODO:
+
+ * add stairwells on either side
+    - I think I should make these entirely outside the existing structure, located on either end of the short sides of the structure. This will save space inside, be a safer fire exit, allow us to add an elevator on the outside along the stairwell, and it would allow us to re-use the same stairwell for the other buildings that would come perpendicular to this one
+    - also, I think we should only have the stairwells go up to the 6th floor. We can have just a ladder and hatch to get from the 6th floor to the rooftop. This will reduce materials and prevent casting shade on our solar equipment on the rooftop
+
+ * finish roof
+    - make the steel-reinforced-concrete rooftop have a slight slope
+    - add gutters
+    - add transparent roofing around the perimeter
+    - convert solid roof to grid of steel-reinforced concrete walkways
+    - add parabolic dishes where the grid is
+    - add transparent roofing where the gird is not
+
+ * add room dividers
+	 - first floor reqs: showers for 30 people, kitchen for 30 people
+		I don't think I can continue until I figure out how much space I'd need for ~6 showers + ~6 sinks, and a kitchen that'll feed 30 people. That will determine the length of the building.
+
+ * add floors
