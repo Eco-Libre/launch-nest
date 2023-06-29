@@ -33,7 +33,8 @@ The second floor is our workshop with high ceilings that actually spans both the
 1. 3x dorm Bedrooms (3x4 = 12 people)
 1. 1x single Bedroom (1 person)
 1. Telecommunications & Server Room
-1. Locker & Safe Rooms
+1. Locker Rooms
+1. Laundry Room
 1. Small Urine WC
 
 ## 5th Floor
@@ -67,7 +68,7 @@ The second floor is our workshop with high ceilings that actually spans both the
 
 # License
 
-Copyright (C) 2020-2022 Michael Altfield and the Eco-Libre Team
+Copyright (C) 2023 Michael Altfield and the Eco-Libre Team
 
 The contents of this repo are under the GPL version 3 or later.
 In addition, any content other than code can also be used, at your
