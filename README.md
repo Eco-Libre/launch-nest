@@ -43,6 +43,7 @@ The second floor is our workshop with high ceilings that actually spans both the
 1. 1x single Bedroom (1 person)
 1. Large Urine WC
 1. Indoor Coworking Space
+1. Library
 1. Recording Studio
 1. Meeting Room
 
