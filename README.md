@@ -31,7 +31,7 @@ The second floor is our workshop with high ceilings that actually spans both the
 ## 4th Floor
 
 1. 3x dorm Bedrooms (3x4 = 12 people)
-1. 1x single Bedroom (1 person)
+1. 1x single Bedroom (1-2 people)
 1. Telecommunications & Server Room
 1. Locker Rooms
 1. Laundry Room
@@ -40,7 +40,7 @@ The second floor is our workshop with high ceilings that actually spans both the
 ## 5th Floor
 
 1. 3x dorm Bedrooms (3x4 = 12 people)
-1. 1x single Bedroom (1 person)
+1. 1x single Bedroom (1-2 people)
 1. Large Urine WC
 1. Indoor Coworking Space
 1. Library
