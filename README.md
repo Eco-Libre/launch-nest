@@ -2,7 +2,7 @@
 
 This repo contains designs for a 6-story building that's designed to house 30 people in a small, off-grid community.
 
-<img src="images/launch-nest_2023.06.png?raw=true" alt="Screenshot of CAD file"></a>
+<img src="images/launch-nest_2023.08.png?raw=true" alt="Screenshot of CAD file"></a>
 
 ## Basement
 
