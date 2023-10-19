@@ -49,7 +49,8 @@ The second floor is our workshop with high ceilings that actually spans both the
 
 ## 6th Floor
 
-1. Open-Air Terrace & Coworking Space
+1. Open-Air Terrace
+1. Projector & Presentation Space
 1. Battery & Transformer Electrical Room
 1. Large Thermal Salt Tank
 1. Ground-Water Tank
