@@ -7,15 +7,16 @@ This repo contains designs for a 6-story building that's designed to house 30 pe
 ## Basement
 
 1. Food storage
-1. Small Urine Sump Tank & Pump
+1. Small urine sump tank & pump
+1. Theater/Meeting room
 
 ## 1st Floor
 
 1. Kitchen
 1. Barrier-free dorm bedroom (4 beds)
-1. Shower Room
+1. Shower room
 1. Medium-sized thermal salt tank
-1. Small Urine WC
+1. Small urine WC
 
 ## 2nd & 3rd Floor
 
