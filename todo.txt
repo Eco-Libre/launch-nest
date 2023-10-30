@@ -1,5 +1,10 @@
 TODO:
 
+ * add "events" space to basement
+   - shrink two of the 6m x 3m rooms in the basement to be 3m x 3m
+   - get rid of the other 2 rooms (keep the two that are under the 1st floor bedroom)
+   - this will provide a space for events with loud music that's underground, so it will muffle the noise
+
  * add stairwells on either side
     - I think I should make these entirely outside the existing structure, located on either end of the short sides of the structure. This will save space inside, be a safer fire exit, allow us to add an elevator on the outside along the stairwell, and it would allow us to re-use the same stairwell for the other buildings that would come perpendicular to this one
     - also, I think we should only have the stairwells go up to the 6th floor. We can have just a ladder and hatch to get from the 6th floor to the rooftop. This will reduce materials and prevent casting shade on our solar equipment on the rooftop
