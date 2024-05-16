@@ -1,6 +1,6 @@
-# Eco-Libre Launch Nest
+# Eco-Libre Launch-Nest
 
-This repo contains designs for a 6-story building that's designed to house 30 people in a small, off-grid community.
+This repo contains designs for a 5-story building that's designed to house 30 people in a small, off-grid community.
 
 <img src="images/launch-nest_2023.09.png?raw=true" alt="Screenshot of CAD file"></a>
 
