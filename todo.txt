@@ -1,7 +1,9 @@
 TODO:
 
  * add "events" space to basement
-   - shrink two of the 6m x 3m rooms in the basement to be 3m x 3m
+   - delete two of the 6m x 3m rooms
+   - one 6m x 3 room will be storage
+   - one 6m x 3 room will be recording studio (see below)
    - get rid of the other 2 rooms (keep the two that are under the 1st floor bedroom)
    - this will provide a space for events with loud music that's underground, so it will muffle the noise
 
