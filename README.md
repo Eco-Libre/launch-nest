@@ -11,6 +11,7 @@ The structure itself is 18 meters x 7 meters and has 5 stories of walled living 
 1. Food storage
 1. Small urine sump tank & pump
 1. Event Room (Theater, Presentation, Dance, Party, etc)
+1. Recording Studio
 
 ## 1st Floor
 
@@ -39,8 +40,7 @@ The structure itself is 18 meters x 7 meters and has 5 stories of walled living 
 1. 2x Bedrooms (4 beds each = 8 people)
 1. Large Urine WC
 1. Library (~12 hot desks)
-1. Recording Studio
-1. 1x Meeting Room
+1. 2x Meeting Rooms
 
 ## 4th Floor
 

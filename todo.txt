@@ -5,6 +5,10 @@ TODO:
    - get rid of the other 2 rooms (keep the two that are under the 1st floor bedroom)
    - this will provide a space for events with loud music that's underground, so it will muffle the noise
 
+ * move the recording studio to the basement
+   - It's probably not a good idea to have the library and recording studio on the same floor
+   - I was thinking the recording studio would be a quiet place (mostly for voice recording), but it would be good if it were capable for music recording too, and the basement would be a better place for that.
+
  * add stairwells on either side
     - I think I should make these entirely outside the existing structure, located on either end of the short sides of the structure. This will save space inside, be a safer fire exit, allow us to add an elevator on the outside along the stairwell, and it would allow us to re-use the same stairwell for the other buildings that would come perpendicular to this one
     - also, I think we should only have the stairwells go up to the 6th floor. We can have just a ladder and hatch to get from the 6th floor to the rooftop. This will reduce materials and prevent casting shade on our solar equipment on the rooftop
@@ -16,6 +20,16 @@ TODO:
     - convert solid roof to grid of steel-reinforced concrete walkways
     - add parabolic dishes where the grid is
     - add transparent roofing where the gird is not
+
+ * add different sizes
+
+	Pico (6-person) (the smallest Eco-Libre Launch-Nest): it's just the basement and 1st floor, with ability to add another floor later
+
+	Nano (14-person): Adds the second floor with two additional bedrooms
+
+	Micro (30-person): Adds the rest of the structure
+
+	Milli (150-person): Adds two more launch nests on either side, plus another two running parallel 60 meters away
 
  * add room dividers
 	 - first floor reqs: showers for 30 people, kitchen for 30 people
