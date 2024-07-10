@@ -71,6 +71,7 @@ The structure itself is 18 meters x 7 meters and has 5 stories of walled living 
 1. Sloped, Steel-reinforced concrete grid
 1. Sunroof grid
 1. Large overhang of transparent polycarbonate panels
+1. Small pressurized water tank (and pump) for washing solar equipment
 
 # License
 
