@@ -3,13 +3,16 @@ TODO:
  * add "events" space to basement
    - delete two of the 6m x 3m rooms
    - one 6m x 3 room will be storage
-   - one 6m x 3 room will be recording studio (see below)
+   - one 6m x 3 room will be recording studio
    - get rid of the other 2 rooms (keep the two that are under the 1st floor bedroom)
    - this will provide a space for events with loud music that's underground, so it will muffle the noise
 
- * move the recording studio to the basement
-   - It's probably not a good idea to have the library and recording studio on the same floor
-   - I was thinking the recording studio would be a quiet place (mostly for voice recording), but it would be good if it were capable for music recording too, and the basement would be a better place for that.
+ * increase storey height
+   - Noise isolation between floors can only achieve so much through thick concrete slabs. Specifically STS (airborne sound) can be dampened between floors with a thick slab, but IIC (impact sound) needs physical isolation. This means building a floor above the floor (eg a raised bamboo floor whoose posts sit on rubber (sound-isolation) footings on-top of the concrete floor slab.
+    * See https://engineering.stackexchange.com/questions/60671/how-to-build-apartment-floors-ceilings-to-not-transfer-sound/60672
+   - We need to figure-out the thickness of the concrete slab + the (bamboo?) floating floor above it + a buffer on the ceiling for piping, duct work, light fixtures, or a (sound isolation) drop-ceiling
+    * See https://engineering.stackexchange.com/questions/60825/are-mutli-story-structure-slabs-poured-on-center
+   - The minimum height of clearance from the top of the floating floor to the bottom of any ceiling infrastructure should be 2.4 meters. Currently the wall height of each storey is only 2.4 meters -- which doesn't even take into account the slab thickness. So we may end-up with 3-meter wall-height.
 
  * add stairwells on either side
     - I think I should make these entirely outside the existing structure, located on either end of the short sides of the structure. This will save space inside, be a safer fire exit, allow us to add an elevator on the outside along the stairwell, and it would allow us to re-use the same stairwell for the other buildings that would come perpendicular to this one
@@ -32,9 +35,3 @@ TODO:
 	Micro (30-person): Adds the rest of the structure
 
 	Milli (150-person): Adds two more launch nests on either side, plus another two running parallel 60 meters away
-
- * add room dividers
-	 - first floor reqs: showers for 30 people, kitchen for 30 people
-		I don't think I can continue until I figure out how much space I'd need for ~6 showers + ~6 sinks, and a kitchen that'll feed 30 people. That will determine the length of the building.
-
- * add floors
