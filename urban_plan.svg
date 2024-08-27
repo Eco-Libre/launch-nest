@@ -23,11 +23,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.056568542"
-     inkscape:cx="3961.1027"
-     inkscape:cy="9467.3896"
+     inkscape:zoom="0.22627417"
+     inkscape:cx="3671.1567"
+     inkscape:cy="5526.0907"
      inkscape:document-units="cm"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="layer2"
      inkscape:document-rotation="0"
      showgrid="false"
      units="cm"
@@ -141,15 +141,6 @@
        transform="rotate(-90)" />
   </g>
   <g
-     inkscape:groupmode="layer"
-     id="layer3"
-     inkscape:label="road">
-    <path
-       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:40;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:3.3;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
-       d="M 1190,800 800,1189.9998"
-       id="path1192" />
-  </g>
-  <g
      inkscape:label="structure area"
      inkscape:groupmode="layer"
      id="layer1">
@@ -257,47 +248,29 @@
        x="600"
        y="-2440"
        transform="rotate(90)" />
-    <rect
-       style="fill:#000000;fill-opacity:1;stroke-width:0.165251;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:3.3;paint-order:stroke fill markers"
-       id="rect989-40"
-       width="40"
-       height="999.99994"
-       x="779.99994"
-       y="1189.9998" />
-    <rect
-       style="fill:#000000;fill-opacity:1;stroke-width:0.165251;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:3.3;paint-order:stroke fill markers"
-       id="rect989-40-5"
-       width="40"
-       height="999.99994"
-       x="780"
-       y="-2190"
-       transform="rotate(90)" />
-    <rect
-       style="fill:#000000;fill-opacity:1;stroke-width:0.165251;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:3.3;paint-order:stroke fill markers"
-       id="rect989-40-9"
-       width="40"
-       height="999.99994"
-       x="2550"
-       y="1187.7637" />
-    <rect
-       style="fill:#000000;fill-opacity:1;stroke-width:0.165251;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:3.3;paint-order:stroke fill markers"
-       id="rect989-40-5-4"
-       width="40"
-       height="999.99994"
-       x="2560"
-       y="-2190"
-       transform="rotate(90)" />
-    <path
-       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:40;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:3.3;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
-       d="m 2190,800 380,387.7637"
-       id="path1234" />
-    <path
-       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:40;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:3.3;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
-       d="M 2570,2187.7637 2190,2580"
-       id="path1236" />
-    <path
-       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:40;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:3.3;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
-       d="M 1190,2580 799.99995,2189.9997"
-       id="path1238" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer4"
+     inkscape:label="zone3">
+    <ellipse
+       style="fill:none;fill-opacity:1;stroke:#a93838;stroke-width:120;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:3.3;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       id="path1246-6"
+       cx="1690"
+       cy="1689.9999"
+       rx="861.6582"
+       ry="861.65839" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="road">
+    <ellipse
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:40;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:3.3;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       id="path1246-6-9"
+       cx="1690"
+       cy="1689.9999"
+       rx="861.6582"
+       ry="861.65839" />
   </g>
 </svg>
