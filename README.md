@@ -2,7 +2,7 @@
 
 This repo contains designs for a 5-story building that's designed to house 30 people in a small, off-grid community.
 
-<img src="images/launch-nest_2023.09.png?raw=true" alt="Screenshot of CAD file"></a>
+<img src="images/launch-nest_2024.08.png?raw=true" alt="Screenshot of CAD file"></a>
 
 The structure itself is 18 meters x 7 meters and has 5 stories of walled living space (630 sq meters). This does not include the solar energy rooftop, 5th floor terrace, wrap-around balcony, or firewalled stairwells.
 
