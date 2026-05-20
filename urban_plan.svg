@@ -1,12 +1,15 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
-   width="813.37299cm"
-   height="403.19067cm"
-   viewBox="0 0 8133.7299 4031.9067"
+   width="814cm"
+   height="404cm"
+   viewBox="0 0 8140 4040"
    version="1.1"
    id="svg8"
    inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
    sodipodi:docname="urban_plan.svg"
+   inkscape:export-filename="urban_plan.png"
+   inkscape:export-xdpi="4.9964776"
+   inkscape:export-ydpi="4.9964776"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -37,16 +40,16 @@
   </defs>
   <sodipodi:namedview
      id="base"
-     pagecolor="#58a44f"
+     pagecolor="#ffffff"
      bordercolor="#666666"
      borderopacity="1.0"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.02"
-     inkscape:cx="8700"
-     inkscape:cy="13775"
+     inkscape:cx="15950"
+     inkscape:cy="4125"
      inkscape:document-units="cm"
-     inkscape:current-layer="g1871"
+     inkscape:current-layer="svg8"
      inkscape:document-rotation="0"
      showgrid="false"
      units="cm"
@@ -69,12 +72,12 @@
      showguides="false"
      inkscape:showpageshadow="2"
      inkscape:pagecheckerboard="0"
-     inkscape:deskcolor="#58a44f">
+     inkscape:deskcolor="#ffffff">
     <inkscape:grid
        type="xygrid"
        id="grid1046"
-       originx="2.4840236e-05"
-       originy="-3.6194923e-05" />
+       originx="2.4840237e-05"
+       originy="-3.6194924e-05" />
   </sodipodi:namedview>
   <metadata
      id="metadata5">
@@ -87,6 +90,14 @@
       </cc:Work>
     </rdf:RDF>
   </metadata>
+  <rect
+     style="display:inline;opacity:1;fill:#58a44f;fill-opacity:1;stroke:none;stroke-width:20;stroke-miterlimit:3.4;stroke-dasharray:none;stroke-opacity:1"
+     id="rect2698"
+     width="8140"
+     height="4040"
+     x="1.4210855e-14"
+     y="2.2737368e-13"
+     inkscape:label="zone 4" />
   <g
      inkscape:groupmode="layer"
      id="layer2"
