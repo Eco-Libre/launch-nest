@@ -1,21 +1,40 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="2000cm"
-   height="2000cm"
-   viewBox="0 0 20000 20000"
+   width="813.37299cm"
+   height="403.19067cm"
+   viewBox="0 0 8133.7299 4031.9067"
    version="1.1"
    id="svg8"
-   inkscape:version="1.0.2 (e86c870879, 2021-01-15)"
-   sodipodi:docname="urban_plan.svg">
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   sodipodi:docname="urban_plan.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
   <defs
-     id="defs2" />
+     id="defs2">
+    <marker
+       style="overflow:visible"
+       id="Stop"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Stop"
+       markerWidth="1"
+       markerHeight="8"
+       viewBox="0 0 1 8"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid">
+      <path
+         style="fill:none;stroke:context-stroke;stroke-width:1"
+         d="M 0,4 V -4"
+         id="path171" />
+    </marker>
+  </defs>
   <sodipodi:namedview
      id="base"
      pagecolor="#58a44f"
@@ -23,17 +42,17 @@
      borderopacity="1.0"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.01"
-     inkscape:cx="32502.008"
-     inkscape:cy="26919.871"
+     inkscape:zoom="0.02"
+     inkscape:cx="8700"
+     inkscape:cy="13775"
      inkscape:document-units="cm"
-     inkscape:current-layer="g2876"
+     inkscape:current-layer="g1871"
      inkscape:document-rotation="0"
      showgrid="false"
      units="cm"
-     inkscape:window-width="1422"
-     inkscape:window-height="1141"
-     inkscape:window-x="171"
+     inkscape:window-width="1456"
+     inkscape:window-height="1076"
+     inkscape:window-x="175"
      inkscape:window-y="55"
      inkscape:window-maximized="0"
      inkscape:snap-intersection-paths="true"
@@ -47,10 +66,15 @@
      inkscape:snap-midpoints="true"
      inkscape:snap-object-midpoints="true"
      inkscape:snap-center="true"
-     showguides="false">
+     showguides="false"
+     inkscape:showpageshadow="2"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#58a44f">
     <inkscape:grid
        type="xygrid"
-       id="grid1046" />
+       id="grid1046"
+       originx="2.4840236e-05"
+       originy="-3.6194923e-05" />
   </sodipodi:namedview>
   <metadata
      id="metadata5">
@@ -60,14 +84,15 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
   <g
      inkscape:groupmode="layer"
      id="layer2"
-     inkscape:label="zone 2">
+     inkscape:label="zone 2"
+     transform="translate(2.4840236e-5,-3.6194921e-5)"
+     style="display:inline">
     <ellipse
        style="fill:#87c183;fill-opacity:1;stroke:#427629;stroke-width:0.37212;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:3.3;paint-order:stroke fill markers"
        id="path856"
@@ -103,28 +128,28 @@
        rx="619.81396"
        ry="619.8139" />
     <rect
-       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:8.79428;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:3.3;paint-order:stroke fill markers"
+       style="display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:8.79428;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:3.3;paint-order:stroke fill markers"
        id="rect851-89"
        width="640"
        height="640"
        x="2442.2366"
        y="2441.915" />
     <rect
-       style="fill:#87c183;fill-opacity:1;stroke-width:0.33298;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:3.3;paint-order:stroke fill markers"
+       style="display:inline;fill:#87c183;fill-opacity:1;stroke-width:0.33298;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:3.3;paint-order:stroke fill markers"
        id="rect1049"
        width="1495.5272"
        height="320"
        x="942.23651"
        y="460" />
     <rect
-       style="fill:#87c183;fill-opacity:1;stroke-width:0.33298;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:3.3;paint-order:stroke fill markers"
+       style="display:inline;fill:#87c183;fill-opacity:1;stroke-width:0.33298;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:3.3;paint-order:stroke fill markers"
        id="rect1049-0"
        width="1495.5272"
        height="320"
        x="942.23645"
        y="2609.6787" />
     <rect
-       style="fill:#87c183;fill-opacity:1;stroke-width:0.33298;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:3.3;paint-order:stroke fill markers"
+       style="display:inline;fill:#87c183;fill-opacity:1;stroke-width:0.33298;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:3.3;paint-order:stroke fill markers"
        id="rect1049-9"
        width="1495.5272"
        height="320"
@@ -132,7 +157,7 @@
        y="2590"
        transform="rotate(-90)" />
     <rect
-       style="fill:#87c183;fill-opacity:1;stroke-width:0.33298;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:3.3;paint-order:stroke fill markers"
+       style="display:inline;fill:#87c183;fill-opacity:1;stroke-width:0.33298;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:3.3;paint-order:stroke fill markers"
        id="rect1049-9-5"
        width="1495.5272"
        height="320"
@@ -143,7 +168,9 @@
   <g
      inkscape:label="structure area"
      inkscape:groupmode="layer"
-     id="layer1">
+     id="layer1"
+     transform="translate(2.4840236e-5,-3.6194921e-5)"
+     style="display:inline">
     <rect
        style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:8.79428;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:3.3;paint-order:stroke fill markers"
        id="rect851"
@@ -233,7 +260,7 @@
        x="2750"
        y="940.00012" />
     <rect
-       style="fill:#000000;fill-opacity:1;stroke-width:0.143111;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:3.3;paint-order:stroke fill markers"
+       style="display:inline;fill:#000000;fill-opacity:1;stroke-width:0.143111;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:3.3;paint-order:stroke fill markers"
        id="rect989-4"
        width="20"
        height="1499.9998"
@@ -241,7 +268,7 @@
        y="-2442.2366"
        transform="rotate(90)" />
     <rect
-       style="fill:#000000;fill-opacity:1;stroke-width:0.143111;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:3.3;paint-order:stroke fill markers"
+       style="display:inline;fill:#000000;fill-opacity:1;stroke-width:0.143111;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:3.3;paint-order:stroke fill markers"
        id="rect989-4-0"
        width="20"
        height="1499.9998"
@@ -252,7 +279,9 @@
   <g
      inkscape:groupmode="layer"
      id="layer4"
-     inkscape:label="zone3">
+     inkscape:label="zone3"
+     transform="translate(2.4840236e-5,-3.6194921e-5)"
+     style="display:inline">
     <ellipse
        style="fill:none;fill-opacity:1;stroke:#a93838;stroke-width:120;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:3.3;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
        id="path1246-6"
@@ -264,7 +293,9 @@
   <g
      inkscape:groupmode="layer"
      id="layer3"
-     inkscape:label="road">
+     inkscape:label="road"
+     transform="translate(2.4840236e-5,-3.6194921e-5)"
+     style="display:inline">
     <ellipse
        style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:40;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:3.3;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
        id="path1246-6-9"
@@ -276,7 +307,9 @@
   <g
      inkscape:groupmode="layer"
      id="layer6"
-     inkscape:label="launch-nest">
+     inkscape:label="launch-nest"
+     transform="translate(2.4840236e-5,-3.6194921e-5)"
+     style="display:inline">
     <g
        id="g2390">
       <g
@@ -644,10 +677,44 @@
   <g
      inkscape:groupmode="layer"
      id="layer7"
-     inkscape:label="key">
+     inkscape:label="key"
+     transform="translate(2.4840236e-5,-3.6194921e-5)"
+     style="display:inline">
+    <g
+       id="g1871"
+       inkscape:label="scale"
+       transform="matrix(0.99973549,0,0,0.99973549,0.63218193,6.2388202)"
+       style="display:inline">
+      <rect
+         style="display:inline;fill:#ffffff;fill-opacity:1;stroke:#a93838;stroke-width:0.0496413;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:3.3;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+         id="rect2699-4"
+         width="2541.3242"
+         height="583.62097"
+         x="1119.3024"
+         y="3443.0874"
+         ry="125.31716"
+         inkscape:label="scale-bar-bg" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:36px;line-height:0.1;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;word-spacing:-0.362479px;direction:ltr;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:19.7505;stroke-miterlimit:3.4;stroke-dasharray:none;stroke-opacity:1"
+         x="1879.8719"
+         y="3812.8914"
+         id="text1817"
+         transform="scale(0.98280041,1.0175006)"><tspan
+           id="tspan1815"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:200px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;direction:ltr;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:19.7505;stroke-opacity:1"
+           x="1879.8719"
+           y="3812.8914"
+           sodipodi:role="line">200 meters</tspan></text>
+      <path
+         style="display:inline;fill:none;stroke:#000000;stroke-width:19.4707;stroke-miterlimit:3.4;stroke-dasharray:none;marker-start:url(#Stop);marker-end:url(#Stop)"
+         d="M 1399.4423,3666.072 H 3380.4868"
+         id="path1384"
+         inkscape:label="scale_bar" />
+    </g>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
        x="5958.7739"
        y="1627.6714"
        id="text2755"><tspan
@@ -658,9 +725,10 @@
          style="stroke-width:0.264583">t</tspan></text>
     <g
        id="g2876"
-       transform="translate(-3786.6664,-65.209787)">
+       transform="translate(-3786.6664,-65.209787)"
+       style="display:inline">
       <rect
-         style="fill:#ffffff;fill-opacity:1;stroke:#a93838;stroke-width:0.163325;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:3.3;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+         style="display:inline;fill:#ffffff;fill-opacity:1;stroke:#a93838;stroke-width:0.163325;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:3.3;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
          id="rect2699"
          width="4492.9082"
          height="3573.4199"
